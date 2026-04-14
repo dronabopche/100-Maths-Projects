@@ -2,6 +2,10 @@
 
 A comprehensive collection of 100 mathematical projects implemented in Python Jupyter Notebooks, covering algorithms, number theory, fractals, signal processing, statistics, and more.
 
+<p align="center">
+    <img src="01_sorting_algorithms_visualizer/resources/100-Maths-Book.png">
+</p>
+
 ## Structure
 
 Each project folder contains:
